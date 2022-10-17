@@ -40,7 +40,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codebells&repo=Codebells.github.io&theme=buefy" />
 </a>
 </div>
-
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://gitee.com/Codebells">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="img/gitee.svg" />
+</a>
+<a href="https://codebells.github.io/">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="img/blog.svg" />
 </a>
